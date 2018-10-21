@@ -1,6 +1,6 @@
-#Path Determiner
+# Path Determiner
 
-##Introduction
+## Introduction
 This project determines path and estimates time for each location between two coordinates
 
 ## Installation
